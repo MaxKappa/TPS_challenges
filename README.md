@@ -1,3 +1,3 @@
 # Tecniche di Protezione del Software
 
-Le mie soluzioni alle challenge del corso di **Tecniche di protezione del software**, svolte sulla piattaforma **pwn.college**.
+Le mie soluzioni alle challenge del corso di **Tecniche di protezione del software**. (**pwn.college**)
